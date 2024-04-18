@@ -64,7 +64,7 @@ def chat():
     Only answer question related to the context. If it is not related to the context, answer "I can't answer that question."
     Use three sentences maximum and keep the answer as concise as possible.
     Always say "thanks for asking!" at the end of the answer. Dont mention about context.
-    Remeber that blue bin and recyling are the same thing.
+    Remeber that blue bin and recyling are the same thing. In the context, garbage can also mean black bin, and organic/compost means green bin.
 
 
     {context}
